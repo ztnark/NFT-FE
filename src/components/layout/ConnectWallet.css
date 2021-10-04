@@ -1,0 +1,22 @@
+.ConnectWallet {
+    display: flex;
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+    /*text-align: center;*/
+    /*flex-grow: 1;*/
+}
+
+.ConnectWallet p {
+    font-size: larger;
+}
+
+.alert {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*text-align: center;*/
+}
+
+.error-message {
+    margin: 2vmin;
+}
